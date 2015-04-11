@@ -1,2 +1,2 @@
 # reader
-RSVP spped reader app
+RSVP speed reader app with offline support
